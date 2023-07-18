@@ -88,18 +88,6 @@ Project Link: [https://github.com/oshinymew/oshinymew](https://github.com/oshiny
 <p align="right">(<a href="#readme-top">go back to the top!</a>)</p>
 
 
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">go back to the top!</a>)</p>
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/oshinymew/oshinymew.svg?style=for-the-badge
