@@ -51,7 +51,7 @@
 
 ### Languages i use
 
-* [![HTML][HTML5]][HTML-url]
+* [![HTML][HTML]][HTML-url]
 * [![Swift][Swift]][Swift-url]
 
 <p align="right">(<a href="#readme-top">go back to the top!</a>)</p>
